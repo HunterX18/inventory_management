@@ -1,0 +1,88 @@
+# Compiled Java classes
+target/
+
+# Logs
+logs/
+
+# IDE files
+.idea/
+.vscode/
+
+# Generated files
+*.class
+*.war
+*.jar
+
+# Dependency directories
+# For Maven
+.mvn
+mvnw
+mvnw.cmd
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA project files
+*.iml
+*.ipr
+*.iws
+.idea/
+*.class
+*.jar
+*.war
+*.ear
+*.hprof
+*.png
+*.bmp
+*.gif
+*.jar
+*.war
+*.ear
+*.db
+*.jwc
+*.wmf
+*.pdf
+*.class
+*.war
+*.ear
+*.log
+*.log.*
+*.jar
+*.war
+*.ear
+*.swp
+.idea
+.idea/*
+*.iml
+*.ipr
+*.iws
+*.iws.*
+*~
+*.~
+.*.swp
+*.DS_Store
+Thumbs.db
+.env
+
+
+HELP.md
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
